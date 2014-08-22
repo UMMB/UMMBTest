@@ -1,0 +1,10 @@
+body { background-color: #666; }
+
+#container { background: #ddd; }	
+ 
+#leaderboard { background-color: #881c1c; }
+#leaderboard a { background-position: center;	}
+
+#header { background-color: #6b2c2c; border-bottom-color: #a16c0f; }
+	
+#footer { background-color: #6b2c2c; }	

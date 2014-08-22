@@ -1,0 +1,5 @@
+#leaderboard { background: #ddd; }
+#leaderboard a { background-position: bottom;	}
+#footer { background-color: #ccc; color: #333; border-color: #bbb; }
+#footer a { color: #333; }
+#footer a:hover { color: #881c1c; border-color: #881c1c; }

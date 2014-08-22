@@ -1,0 +1,9 @@
+body { background: #7fa0a0; }	
+ 
+#leaderboard { background: #ddd; }
+	
+#leaderboard a { background-position: bottom;	}
+
+#header { background-color: #881c1c; }
+
+#footer { background-color: #ddd; color: #333; }
